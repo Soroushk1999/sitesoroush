@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sitesoroush"
+version = "0.1.0"
+description = ""
+authors = ["Soroushk1999 <soroush.koohkamari@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
